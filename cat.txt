@@ -1,4 +1,5 @@
-s21900116@peace:~/oss2020/Linux$ cat --h
+cat [파일명]  파일의 내용 확인
+cat > [파일명] 파일을 만듦과 동시에 내용 입력 가능
 Usage: cat [OPTION]... [FILE]...
 Concatenate FILE(s) to standard output.
 
